@@ -1,29 +1,19 @@
-## Your Name
+## Mike Field-May
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a former IT technician with a love of problem solving and a passion for creating things. After dabbling with HTML and CSS I realised that coding was the career I always wanted, but didn't know existed.   
+I'm about to kickstart my career by studying at Makers Academy,  Europe's leading web development bootcamp.
 
 ## Skills
 
-#### This Skill
+- **Problem solving**: I have always enjoyed logic and puzzles and working as an IT technician I relied heavily on my problem solving skills. Before any issues could solved I would have to determine what the problem was at its most basic level and then apply a resolution based on the most likely fix.
+- **Communication**: When I provided first line IT support people would often call in an agitated state. I would diffuse the situation and provide them with reassurance that there was a solution. Customers had varied technical competency so I would have to adapt explanations of IT issues and solutions. Whilst explaining issues to colleagues I needed to be precise and clear.
+- **Working under pressure**: As an IT technician I was often working under high pressure. Businesses may have had issues that completely stop them from functioning and as such there was a lot of pressure to get the issue resolved. Regular jobs also had an element of pressure as the support service was charged per hour customers would often scrutinise your methods whilst  fixing problems.
+- **Fast learner**: Before beginning my time as an IT technician I hadn't had any formal IT training, but after my first month I was confidently able to visit customers in order to resolve the problems that they had.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2017 to April 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +22,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Cardiff University (September 2008 to June 2011)
 
-- Subject, any specialisms
-- Grade
+- Ecology BSc 2.2.
 - Other cool stuff
 
-#### Any other qualifications
+#### Ysgol Dewi Sant (2006 - 2008)
+- A levels in Biology, Chemistry and Maths.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Total Tech Ltd** (October 2015 to November 2016)    
+*Technician*  
+As a technician for an IT support company I;
+- Diagnosed desktop, application, networking and infrastructure issues.
+- Provided first line support to customers and would either resolve the issue remotely, or schedule an appointment with an engineer.
+- Provided onsite support to customers which included; teaching basic computer skills, repairing PCs and replacing faulty hardware, installing PCs, printers, routers etc. On larger projects I would work with colleagues to fully install network infrastructure by running cabling, patching leads, and installing data cabinets.
+- In the workshop I repaired software and operating systems on PCs and laptops, replaced faulty parts and built new PCs.
+- I frequently liaised with software companies and internet providers in order to resolve issues for customers.
+- I would advise companies of IT based solutions then research, test and implement these solutions e.g EPOS systems, VOIP systems, managed guest networks and CCTV.
+
+**Experience Mor** (December 2012 to February 2015)  
+*Assistant Manager*  
+As the assistant manager for a growing holiday letting company, my responsibilities were that of Head Housekeeper and administrative assistant.
