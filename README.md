@@ -1,16 +1,14 @@
 ## Mike Field-May
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience) | [Contact](#contact)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience)
 
 I'm a full-stack junior developer and a recent graduate of [Makers Academy](http://www.makersacademy.com/).
 
 Learning to code at Europe's leading bootcamp has completely changed my life. I've been imbued me with a new sense of confidence, a devotion to clean, tested, and re-usable code, and a passion to continue to develop my skills. I have a firm belief that software and technology will help solve the countless problems that the world is currently facing and I feel incredibly privileged that I'm going to be a part of that.
 
-I bring a high level of positivity and enthusiasm to any new challenge that I face. I can quickly break down a problem into its constituent parts and I love the satisfaction of ironing out a difficult bug.
+I bring a high level of positivity and enthusiasm to any new challenge that I face. I can quickly break down a problem into its constituent parts and I love the satisfaction of ironing out difficult bugs.
 
-I want a job in which I can continue to learn and grow my skills as a software engineer using the best practices I've learnt at Makers.
-
-and I want to be part of a team that I'm making a valid contribution to, for a company that is changing the world for the better.
+I want a job in which I can continue to learn and grow my skills as a software engineer using the best practices I've learnt at Makers, for a company that is changing the world for the better.
 
 ## <a name="skills">Skills</a>
 
@@ -24,7 +22,7 @@ and I want to be part of a team that I'm making a valid contribution to, for a c
 | Project | Summary | Technologies | Successes | Struggled with |
 |----------|----------|----------|--------- | ------- |
 |[Pixos](https://github.com/mikefieldmay/Pixos)| In our final project we created a browser based strategy card game based on Gwent from the video game The Witcher 3. | Mongodb, Express, React.js, Node.js, Redux, Socket.io, Webpack, Enzyme, Bootstrap and Material-UI. **Testing**: Mocha, Chai, Sinon, Enzyme. | In a short amount of time we managed to create an exciting card game and achieve all of the ambitious goals that we set ourselves. It'll be a project that I continue to contribute to long after I finish Makers| Working with so many new technologies and understanding how they all came together initially proved very difficult. |
-|[Bank Tech Test](https://github.com/mikefieldmay/tech_test_bank)| As part of our practice Tech tests we were asked to create a bank.  | Ruby. **Testing**: Rspec. | I felt that because of the planning I did I was able to approach the test in an object oriented manner. | I managed to get all the basic functionality unit tested and working, but lacked the time to run any feature tests on the project.|
+|[Bank Tech Test](https://github.com/mikefieldmay/tech_test_bank)| As part of our practice Tech tests we were asked to create a bank.  | Ruby. **Testing**: Rspec. | Because of careful planning I was able to approach the test in an object oriented manner. | I managed to get all the basic functionality unit tested and working, but lacked the time to run any feature tests on the project.|
 | [Makers BnB](https://github.com/mikefieldmay/makersbnb)| One of our weekly challenges at Makers was to create a clone of the popular rental website Air BnB | Ruby, Javascript, Heroku, Sinatra, HTML, Sass and Bootstrap. **Testing**: Rspec. | Managing to stay agile in our first group project and sticking to the best practices taught at Makers | Because it was the first week that we were given just a broad outline of the challenge it was initially difficult to work out where to start. |
 
 
@@ -42,12 +40,9 @@ and I want to be part of a team that I'm making a valid contribution to, for a c
 #### Cardiff University (September 2008 to June 2011)
 
 - Ecology BSc 2.2.
-- Other cool stuff
+-
 
-#### Ysgol Dewi Sant (2006 - 2008)
-- A levels in Biology, Chemistry and Maths.
-
-## Experience
+## <a name="experience">Experience</a>
 
 **Total Tech Ltd** (October 2015 to November 2016)    
 *Technician*  
