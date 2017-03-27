@@ -4,7 +4,7 @@
 
 I'm a full-stack junior developer and a recent graduate of [Makers Academy](http://www.makersacademy.com/).
 
-Learning to code at Europe's leading bootcamp has completely changed my life. I've been imbued me with a new sense of confidence, a devotion to clean, tested, and re-usable code, and a passion to continue to develop my skills. I have a firm belief that software and technology will help solve the countless problems that the world is currently facing and I feel incredibly privileged that I'm going to be a part of that.
+Learning to code at Europe's leading bootcamp has completely changed my life. I've been imbued with a new sense of confidence, a devotion to clean, tested, and re-usable code, and a passion to continue to develop my skills. I have a firm belief that software and technology will help solve the countless problems that the world is currently facing and I feel incredibly privileged that I'm going to be a part of that.
 
 I bring a high level of positivity and enthusiasm to any new challenge that I face. I can quickly break down a problem into its constituent parts and I love the satisfaction of ironing out difficult bugs.
 
@@ -15,7 +15,8 @@ I want a job in which I can continue to learn and grow my skills as a software e
 - **Problem solving**: I have always enjoyed logic and puzzles and working as an IT technician I relied heavily on my problem solving skills. Before any issues could be solved I would have to determine what the problem was at its most basic level and then apply a resolution based on the most likely fix.
 - **Communication**: When I provided first line IT support people would often call in an agitated state. I would diffuse the situation and provide them with reassurance that there was a solution. Customers had varied technical competency so I would have to adapt explanations of IT issues and solutions. Whilst explaining issues to colleagues I needed to be precise and clear.
 - **Working under pressure**: As an IT technician I was often working under high pressure. Businesses may have had issues that completely stop them from functioning and as such there was a lot of pressure to get the issue resolved. Regular jobs also had an element of pressure as the support service was charged per hour customers would often scrutinise your methods whilst  fixing problems.
-- **Fast learner**: Before beginning my time as an IT technician I hadn't had any formal IT training, but after my first month I was confidently able to visit customers in order to resolve the problems that they had.
+- **Team work**: I frequently become a strong motivational force in the groups I work in. Whilst working on the multiplayer card game Pixos, our final project at Makers academy, we had undertaken a lot of new technologies with an ambitious end goal. On a few occasions our goal seemed unattainable, but my teammates often commented that my positive attitude encouraged them to continue and we ended up with an incredible end product.
+- **Fast learner**: Before beginning my time as an IT technician I hadn't had any formal IT training After my first month I was already adding value to the company as I was confidently able to visit customers in order to resolve the problems that they had.
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 
@@ -28,14 +29,14 @@ I want a job in which I can continue to learn and grow my skills as a software e
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (January 2017 to April 2017)
+#### Makers Academy (January 2017 to March 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Pair programming and agile development
+- Object oriented programming, test driven development and SOLID principles
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Express, React and Redux
+- HTML, CSS, SASS, JQuery and Bootstrap
+- Testing libraries: Rspec, Jasmine, Mocha, Sinon and Chai
 
 #### Cardiff University (September 2008 to June 2011)
 
@@ -58,7 +59,7 @@ As a technician for an IT support company I:
 Initially starting as a personal assistant I quickly assumed further responsibilities and was promoted to assistant manager. My responsibilities were that of Head Housekeeper and administrator.
 
 ## <a name="hobbies">Hobbies</a>
-I'm very enthusiastic and acquire new hobbies all the time. Here are some of my longer running ones:
+I'm very enthusiastic and acquire new hobbies all the time. Here are some of my long term ones:
 
 - Board games, video games and card games
 - Comic books, movies and tv
