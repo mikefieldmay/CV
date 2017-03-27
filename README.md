@@ -4,17 +4,13 @@
 
 I'm a full-stack junior developer and a recent graduate of [Makers Academy](http://www.makersacademy.com/).
 
-Learning to code at Europe's leading bootcamp has completely changed my life. I've been imbued me with a new sense of confidence, a devotion to clean, tested, and re-usable code, and a passion to continue to develop my skills. I have a firm belief that software and technology will help solve countless problems that the world is currently facing and I feel incredibly privileged that I'm going to be a part of that.
+Learning to code at Europe's leading bootcamp has completely changed my life. I've been imbued me with a new sense of confidence, a devotion to clean, tested, and re-usable code, and a passion to continue to develop my skills. I have a firm belief that software and technology will help solve the countless problems that the world is currently facing and I feel incredibly privileged that I'm going to be a part of that.
 
+I bring a high level of positivity and enthusiasm to any new challenge that I face. I can quickly break down a problem into its constituent parts and I love the satisfaction of ironing out a difficult bug.
 
-I'm a former IT technician with a love of problem solving and a passion for creating things. After dabbling with HTML and CSS I realised that coding was the career I always wanted, but didn't know existed.
+I want a job in which I can continue to learn and grow my skills as a software engineer using the best practices I've learnt at Makers.
 
-I want a job in which I can continue to learn and grow my skills as a software engineer. A place that practices agile methodology and focuses on the best practices that I've learnt at Makers. I want to be part of a team that I'm making a valid contribution to, for a company that is changing the world for the better.
-
-I love solving problems and facing new challenges head on. I have a passion for making things and I want a career in which I can continue to learn and grow
-
-
-
+and I want to be part of a team that I'm making a valid contribution to, for a company that is changing the world for the better.
 
 ## <a name="skills">Skills</a>
 
