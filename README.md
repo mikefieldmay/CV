@@ -1,6 +1,6 @@
 ## Mike Field-May
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 I'm a full-stack junior developer and a recent graduate of [Makers Academy](http://www.makersacademy.com/).
 
@@ -40,20 +40,29 @@ I want a job in which I can continue to learn and grow my skills as a software e
 #### Cardiff University (September 2008 to June 2011)
 
 - Ecology BSc 2.2.
--
 
 ## <a name="experience">Experience</a>
 
 **Total Tech Ltd** (October 2015 to November 2016)    
 *Technician*  
-As a technician for an IT support company I;
+As a technician for an IT support company I:
 - Diagnosed desktop, application, networking and infrastructure issues.
 - Provided first line support to customers and would either resolve the issue remotely, or schedule an appointment with an engineer.
 - Provided onsite support to customers which included; teaching basic computer skills, repairing PCs and replacing faulty hardware, installing PCs, printers, routers etc. On larger projects I would work with colleagues to fully install network infrastructure by running cabling, patching leads, and installing data cabinets.
 - In the workshop I repaired software and operating systems on PCs and laptops, replaced faulty parts and built new PCs.
-- I frequently liaised with software companies and internet providers in order to resolve issues for customers.
-- I would advise companies of IT based solutions then research, test and implement these solutions e.g EPOS systems, VOIP systems, managed guest networks and CCTV.
+- Frequently liaised with software companies and internet providers in order to resolve issues for customers.
+- Would advise companies of IT based solutions then research, test and implement these solutions e.g EPOS systems, VOIP systems, managed guest networks and CCTV.
 
 **Experience Mor** (December 2012 to February 2015)  
-*Manager*  
-As the assistant manager for a growing holiday letting company, my responsibilities were that of Head Housekeeper and administrative assistant.
+*Assistant Manager*
+Initially starting as a personal assistant I quickly assumed further responsibilities and was promoted to assistant manager. My responsibilities were that of Head Housekeeper and administrator.
+
+## <a name="hobbies">Hobbies</a>
+I'm very enthusiastic and acquire new hobbies all the time. Here are some of my longer running ones:
+
+- Board games, video games and card games
+- Comic books, movies and tv
+- Running
+- Meditation and yoga
+- Cooking
+- DIY
