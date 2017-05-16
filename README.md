@@ -37,6 +37,7 @@ I want a job in which I can continue to learn and grow my skills as a software e
 - Ruby, Rails, Javascript, Node.js, Express, React and Redux
 - HTML, CSS, SASS, JQuery and Bootstrap
 - Testing libraries: Rspec, Jasmine, Mocha, Sinon and Chai
+- Cloud Foundry using Pivotal Web-Services
 
 #### Cardiff University (September 2008 to June 2011)
 
