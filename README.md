@@ -24,6 +24,7 @@ I want a job in which I can continue to learn and grow my skills as a software e
 |----------|----------|----------|--------- | ------- |
 |[Pixos](https://github.com/mikefieldmay/Pixos)| In our final project we created a browser based strategy card game based on Gwent from the video game The Witcher 3. | Mongodb, Express, React.js, Node.js, Redux, Socket.io, Webpack, Enzyme, Bootstrap and Material-UI. **Testing**: Mocha, Chai, Sinon, Enzyme. | In a short amount of time we managed to create an exciting card game and achieve all of the ambitious goals that we set ourselves. It'll be a project that I continue to contribute to long after I finish Makers| Working with so many new technologies and understanding how they all came together initially proved very difficult. |
 |[Bank Tech Test](https://github.com/mikefieldmay/tech_test_bank)| As part of our practice Tech tests we were asked to create a bank.  | Ruby. **Testing**: Rspec. | Because of careful planning I was able to approach the test in an object oriented manner. | I managed to get all the basic functionality unit tested and working, but lacked the time to run any feature tests on the project.|
+| [Noughts and Crosses](https://github.com/mikefieldmay/https://github.com/mikefieldmay/tech_test_noughts_and_crosses)| As part of our practice Tech tests we were asked to create a noughts and crosses game. | Javascript, Jquery, HTML, Sass and Bootstrap. **Testing**: Jasmine. | I approached this challenge in an object oriented manner. I was able to test most of the basic functionality before I had created the interface for the game. | The game works well for two players, but it would have been great to create a single player version. This version has a 3x3 board size limit too and it would be difficult to increase the board size the way it has currently been written. |
 | [Makers BnB](https://github.com/mikefieldmay/makersbnb)| One of our weekly challenges at Makers was to create a clone of the popular rental website Air BnB | Ruby, Javascript, Heroku, Sinatra, HTML, Sass and Bootstrap. **Testing**: Rspec. | We used an agile methodology in our first group project and  managed to stick to the best practices taught at Makers | Because it was the first week that we were given just a broad outline of the challenge it was initially difficult to work out where to start. |
 
 
@@ -34,7 +35,7 @@ I want a job in which I can continue to learn and grow my skills as a software e
 - Pair programming and agile development
 - Object oriented programming, test driven development and SOLID principles
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Express, React and Redux
+- Ruby, Rails, Javascript, Node.js, Express, React, Redux, Angular, AngularJs, Ionic
 - HTML, CSS, SASS, JQuery and Bootstrap
 - Testing libraries: Rspec, Jasmine, Mocha, Sinon and Chai
 - Cloud Foundry using Pivotal Web-Services
@@ -44,6 +45,12 @@ I want a job in which I can continue to learn and grow my skills as a software e
 - Ecology BSc 2.2.
 
 ## <a name="experience">Experience</a>
+
+**Cognizant** (May 2017 - July 2017)
+*Programmer analyst*
+During my time at Cognizant I
+- Received training in AngularJs, Angular (2/4) and Nodejs.
+- Developed a proof of concept mobile news application for a client using the Ionic framework.
 
 **Total Tech Ltd** (October 2015 to November 2016)    
 *Technician*  
