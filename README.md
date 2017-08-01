@@ -48,6 +48,7 @@ I want a job in which I can continue to learn and grow my skills as a software e
 
 **Cognizant** (May 2017 - July 2017)
 *Programmer analyst*
+
 During my time at Cognizant I
 - Received training in AngularJs, Angular (2/4) and Nodejs.
 - Developed a proof of concept mobile news application for a client using the Ionic framework.
