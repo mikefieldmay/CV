@@ -75,6 +75,5 @@ I'm very enthusiastic and acquire new hobbies all the time. Here are some of my 
 - Board games, video games and card games
 - Comic books, movies and tv
 - Running
-- Meditation and yoga
 - Cooking
 - DIY
