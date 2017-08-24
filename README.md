@@ -8,7 +8,7 @@ Learning to code at Europe's leading bootcamp has completely changed my life. I'
 
 I bring a high level of positivity and enthusiasm to any new challenge that I face. I can quickly break down a problem into its constituent parts and I love the satisfaction of ironing out difficult bugs.
 
-I want a job in which I can continue to learn and grow my skills as a software engineer using the best practices I've learnt at Maker.
+I want a job in which I can continue to learn and grow my skills as a software engineer using the best practices I've learnt at Makers.
 
 ## <a name="skills">Skills</a>
 
