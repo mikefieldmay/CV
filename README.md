@@ -1,6 +1,6 @@
 ## Mike Field-May
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Skills](#skills) | [Makers Academy Projects](#projects) |  [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 I'm a full-stack junior developer and a recent graduate of [Makers Academy](http://www.makersacademy.com/).
 
@@ -18,15 +18,14 @@ I want a job in which I can continue to learn and grow my skills as a software e
 - **Team work**: I frequently become a strong motivational force in the groups I work in. Whilst working on the multiplayer card game Pixos, our final project at Makers academy, we had undertaken a lot of new technologies with an ambitious end goal. On a few occasions our goal seemed unattainable, but my teammates often commented that my positive attitude encouraged them to continue and we ended up with an incredible end product.
 - **Fast learner**: Before beginning my time as an IT technician I hadn't had any formal IT training After my first month I was already adding value to the company as I was confidently able to visit customers in order to resolve the problems that they had.
 
-## <a name="makers_projects">Makers Academy Projects</a>
+## <a name="projects">Projects</a>
 
 | Project | Summary | Technologies | Successes | Struggled with |
 |----------|----------|----------|--------- | ------- |
+|[Marvel Covers](https://github.com/mikefieldmay/MarvelCovers)| After spending time learning Angular on a Udemy course I decide to apply it to a practice project to cement my learning| Angular Cli, rxjs, Typescript, HTML, CSS and Bootstrap. **Testing**: Jasmine, Karma and Protractor.| Whilst I'm still working on the UI adn implementing further features, the project is fully tested and the interface looks pretty good. A considerable amount of time was spent on the HTML and CSS side of the project. [Project Link](http://ng-marvel-covers-app.s3-website.eu-west-2.amazonaws.com/)| Testing in any new framework is initially very difficult, but now I have the hang of it, it should be easier in future. The Marvel API didn't return waht I had expected it to and not everything it returns is uniform, but this gave me good practice at handling data.| 
 |[Pixos](https://github.com/bvjones/Pixos)| In our final project we created a browser based strategy card game based on Gwent from the video game The Witcher 3. | Mongodb, Express, React.js, Node.js, Redux, Socket.io, Webpack, Enzyme, Bootstrap and Material-UI. **Testing**: Mocha, Chai, Sinon, Enzyme. | In a short amount of time we managed to create an exciting card game and achieve all of the ambitious goals that we set ourselves. It'll be a project that I continue to contribute to long after I finish Makers| Working with so many new technologies and understanding how they all came together initially proved very difficult. |
 |[Bank Tech Test](https://github.com/mikefieldmay/tech_test_bank)| As part of our practice Tech tests we were asked to create a bank.  | Ruby. **Testing**: Rspec. | Because of careful planning I was able to approach the test in an object oriented manner. | I managed to get all the basic functionality unit tested and working, but lacked the time to run any feature tests on the project.|
 | [Noughts and Crosses](https://github.com/mikefieldmay/https://github.com/mikefieldmay/tech_test_noughts_and_crosses)| As part of our practice Tech tests we were asked to create a noughts and crosses game. | Javascript, Jquery, HTML, Sass and Bootstrap. **Testing**: Jasmine. | I approached this challenge in an object oriented manner. I was able to test most of the basic functionality before I had created the interface for the game. | The game works well for two players, but it would have been great to create a single player version. This version has a 3x3 board size limit too and it would be difficult to increase the board size the way it has currently been written. |
-| [Makers BnB](https://github.com/mikefieldmay/makersbnb)| One of our weekly challenges at Makers was to create a clone of the popular rental website Air BnB | Ruby, Javascript, Heroku, Sinatra, HTML, Sass and Bootstrap. **Testing**: Rspec. | We used an agile methodology in our first group project and  managed to stick to the best practices taught at Makers | Because it was the first week that we were given just a broad outline of the challenge it was initially difficult to work out where to start. |
-
 
 ## <a name="education">Education</a>
 
